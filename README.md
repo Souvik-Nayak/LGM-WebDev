@@ -16,4 +16,6 @@ In this task, we have to create a react website in which we have to create a use
 Overall, it was a great learning experience. I previously knew HTML, CSS, and JavaScript, but during the internship, I learned ReactJs and successfully created my first website using React in Task 2. Challenges keep us thriving to achieve more and we should keep our learning graph always high.
 Thank you, for reading till here. I am glad to complete this internship and I recommend everyone to grab this amazing opportunity the LetsGrowMore is offering us !
 
+Blog Link : https://medium.com/@nayaksouvik786/lets-grow-more-internship-experience-6e967e50e879
+
 Souvik Nayak
