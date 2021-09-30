@@ -23,7 +23,7 @@ I got the opportunity for virtual internship on web development domain in lets g
 
 
 ## Blog
-<a href="shorturl.at/hmrxC">
+<a href="https://medium.com/@nayaksouvik786/lets-grow-more-internship-experience-6e967e50e879">
     http://souvik-let'sgrowmore-blog.com
 </a>
 
