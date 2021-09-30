@@ -1,21 +1,42 @@
-# LGMVIP-WebDev
+<h2 align="center">Let's Grow More Virtual Internship</h2>
+<br>
 
-Tasks :-
-There were 3 tasks given in total and to get our certificates we had to perform at least(2 tasks).
+## About The Internship
 
-The Tasks which I performed were as follows :-
+I got the opportunity for virtual internship on web development domain in lets grow more and was assigned with 2 tasks respectively to submit within a given timeline.
 
-Task 1
+  ```sh
+    Task 1 : Static responsive webpage with many componenets
+  ```
+  
+  ```sh
+    Task 2 : React app fetching the provided API with preloader effects
+  ```
 
-In this task, we have to create a single-page website using the design layout given using HTML, CSS, and JavaScript. The video link for the task is:
+## Tech Stack
 
-Task 2
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [CreateJS](https://createjs.com/preloadjs)
 
-In this task, we have to create a react website in which we have to create a user grid layout having a navbar showing any brand name, and when we click the button “Get Users” the API fetches data.
 
-Overall, it was a great learning experience. I previously knew HTML, CSS, and JavaScript, but during the internship, I learned ReactJs and successfully created my first website using React in Task 2. Challenges keep us thriving to achieve more and we should keep our learning graph always high.
-Thank you, for reading till here. I am glad to complete this internship and I recommend everyone to grab this amazing opportunity the LetsGrowMore is offering us !
+## Blog
+<a href="shorturl.at/hmrxC">
+    http://souvik-let'sgrowmore-blog.com
+</a>
 
-Blog Link : https://medium.com/@nayaksouvik786/lets-grow-more-internship-experience-6e967e50e879
+## Installation
 
-Souvik Nayak
+* To run the app in the development mode and Open http://localhost:3000 to view it in the browser.
+
+    ```sh
+    yarn start
+    ```
+
+* Install dependencies.
+
+    ```sh
+    yarn install
+    ```
