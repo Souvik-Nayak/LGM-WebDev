@@ -1,5 +1,4 @@
 <h2 align="center">Let's Grow More Virtual Internship</h2>
-<br>
 
 ## About The Internship
 
